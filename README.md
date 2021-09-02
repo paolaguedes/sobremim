@@ -1,2 +1,8 @@
-# sobremim
-um compilado com cursos, formações e links de projetos/sites que ja fiz... vou ir alterando conforme o tempo
+## 🐱‍💻 sobremim
+- Uma página pessoal com contatos e projetos feitos
+
+- O design foi baseado no site do Instagram
+
+(ainda não está finalizada.....)
+
+link https://paolaguedes.github.io/sobremim/
